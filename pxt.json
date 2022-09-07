@@ -1,11 +1,12 @@
 {
-    "name": "My Greenhouse",
+    "name": "My Greenhouse Starter Code",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-smart-greenhouse": "github:kitronikltd/pxt-kitronik-smart-greenhouse#v1.3.9"
+        "pxt-kitronik-smart-greenhouse": "github:kitronikltd/pxt-kitronik-smart-greenhouse#v1.3.9",
+        "envirobit": "github:pimoroni/pxt-envirobit#v0.0.5"
     },
     "files": [
         "main.blocks",
